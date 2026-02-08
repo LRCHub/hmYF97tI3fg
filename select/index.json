@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Overflow",
+  "base_artist": "Hotaru",
+  "createdAt": "2026-02-08T15:01:44.908166Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_Overflow_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Overflow",
+      "artist": "Death Grips",
+      "has_synced": false,
+      "path": "select/02_I'm_Overflow_Death_Grips.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "Razed In Black",
+      "has_synced": false,
+      "path": "select/03_Overflow_Razed_In_Black.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Car Park (Overflow)",
+      "artist": "Fenne Lily",
+      "has_synced": true,
+      "path": "select/04_Car_Park_(Overflow)_Fenne_Lily.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "The Mayfield Four",
+      "has_synced": true,
+      "path": "select/05_Overflow_The_Mayfield_Four.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "Guy Pearce",
+      "has_synced": false,
+      "path": "select/06_Overflow_Guy_Pearce.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "Ghost Loft",
+      "has_synced": false,
+      "path": "select/07_Overflow_Ghost_Loft.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Overflow (Album Version)",
+      "artist": "The Mayfield Four",
+      "has_synced": true,
+      "path": "select/08_Overflow_(Album_Version)_The_Mayfield_Four.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "Marianne Beaulieu",
+      "has_synced": true,
+      "path": "select/09_Overflow_Marianne_Beaulieu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Overflow - feat. Joel Stewart",
+      "artist": "Luca feat. Joel Stewart",
+      "has_synced": false,
+      "path": "select/10_Overflow_-_feat._Joel_Stewart_Luca_feat._Joel_Stewart.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Overflow - feat. Joel Stewart",
+      "artist": "Luca/Joel Stewart",
+      "has_synced": false,
+      "path": "select/11_Overflow_-_feat._Joel_Stewart_Luca_Joel_Stewart.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "Chris Tomlin",
+      "has_synced": true,
+      "path": "select/12_Overflow_Chris_Tomlin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/13_Overflow_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/14_Overflow_家入レオ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Overflow",
+      "artist": "TobyMac",
+      "has_synced": true,
+      "path": "select/15_Overflow_TobyMac.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fill Me Up / Overflow - Medley/1 Mic 1 Take",
+      "artist": "Tasha Cobbs Leonard",
+      "has_synced": true,
+      "path": "select/16_Fill_Me_Up___Overflow_-_Medley_1_Mic_1_Take_Tasha_Cobbs_Leonard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Overflow",
+      "artist": "Hotaru",
+      "has_synced": false,
+      "path": "select/pl_01_Overflow_Hotaru.txt"
+    }
+  ]
+}
